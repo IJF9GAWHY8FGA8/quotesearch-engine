@@ -5,4 +5,7 @@ __pycache__/
 .coverage
 htmlcov/
 .DS_Store
-
+deliverables/
+tools/
+docs/commit_plan.md
+docs/submission_template.txt
