@@ -1,0 +1,4 @@
+beautifulsoup4==4.12.3
+pytest==8.3.4
+pytest-cov==5.0.0
+requests==2.32.3

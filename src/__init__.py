@@ -1,0 +1,1 @@
+"""QuoteSearch Engine source package."""
